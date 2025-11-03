@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou a Letícia Torquato 
+# 👋 Olá! Eu sou a Letícia Gomes Torquato de Souza  
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**  
 
 ---
@@ -6,7 +6,7 @@
 ### 💡 Sobre mim  
 
 Sou uma entusiasta da tecnologia e acredito no poder do aprendizado contínuo.  
-Atualmente, estou desenvolvendo habilidades nas áreas de **desenvolvimento web**, **análise e ciência de dados** e **banco de dados**.  
+Atualmente, estou desenvolvendo habilidades nas áreas de **desenvolvimento web**, **análise de dados** e **bancos de dados**.  
 Gosto de transformar ideias em projetos práticos e explorar ferramentas que me ajudem a resolver problemas de forma criativa e eficiente.  
 
 ---
@@ -14,7 +14,7 @@ Gosto de transformar ideias em projetos práticos e explorar ferramentas que me 
 ### 🧠 Tecnologias e Ferramentas  
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,html,css,js,oracle,mysql" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,mysql,oracle" />
 </div>
 
 ---
@@ -31,15 +31,19 @@ Gosto de transformar ideias em projetos práticos e explorar ferramentas que me 
 ### 📫 Contato  
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
-  <a href="https://www.linkedin.com/in/leticiatorquato" target="_blank" style="text-decoration: none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/>
-    <span style="font-size: 16px; vertical-align: middle;">LinkedIn</span>
+
+  <a href="https://www.linkedin.com/in/leticiatorquato" target="_blank" style="text-decoration: none; color: white;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30" style="vertical-align: middle;"/>
+    <span style="font-size: 16px; color: white; vertical-align: middle;">LinkedIn</span>
   </a>
+
   &nbsp;&nbsp;&nbsp;
-  <a href="mailto:leticia.torquato.ads@gmail.com" target="_blank" style="text-decoration: none;">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="30" height="30"/>
-    <span style="font-size: 16px; vertical-align: middle;">E-mail</span>
+
+  <a href="mailto:leticia.torquato.ads@gmail.com" target="_blank" style="text-decoration: none; color: white;">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="30" height="30" style="vertical-align: middle;"/>
+    <span style="font-size: 16px; color: white; vertical-align: middle;">E-mail</span>
   </a>
+
 </div>
 
 ---
