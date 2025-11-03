@@ -4,9 +4,7 @@
 ---
 
 ## 💡 Sobre mim  
-Sou uma entusiasta da tecnologia e acredito no poder do aprendizado contínuo.  
-Atualmente, estou desenvolvendo habilidades nas áreas de **desenvolvimento web**, **análise de dados**, **ciência de dados** e **bancos de dados**.  
-Gosto de transformar ideias em projetos práticos e explorar ferramentas que me ajudem a resolver problemas de forma criativa e eficiente.  
+Sou uma entusiasta da tecnologia e acredito no poder do aprendizado contínuo. Atualmente, estou desenvolvendo habilidades nas áreas de **desenvolvimento web**, **análise de dados**, **ciência de dados** e **bancos de dados**. Gosto de transformar ideias em projetos práticos e explorar ferramentas que me ajudem a resolver problemas de forma criativa e eficiente.  
 
 ---
 
