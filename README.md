@@ -1,69 +1,60 @@
-# 👋 Olá, eu sou a Letícia Gomes Torquato de Souza  
-**Estudante de Análise e Desenvolvimento de Sistemas (ADS)**  
+# 👋 Olá! Eu sou a Letícia Torquato 
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**  
 
 ---
 
-### 💼 Sobre mim  
-Sou apaixonada por tecnologia e desenvolvimento de software.  
-Atualmente focando em transformar ideias em projetos reais — desde o front-end com HTML, CSS e JavaScript até a análise de dados com Python, além de banco de dados SQL/Oracle.  
-Tenho interesse em aprimorar minhas habilidades e construir uma carreira sólida na área de desenvolvimento e análise de sistemas.  
+### 💡 Sobre mim  
+
+Sou uma entusiasta da tecnologia e acredito no poder do aprendizado contínuo.  
+Atualmente, estou desenvolvendo habilidades nas áreas de **desenvolvimento web**, **análise e ciência de dados** e **banco de dados**.  
+Gosto de transformar ideias em projetos práticos e explorar ferramentas que me ajudem a resolver problemas de forma criativa e eficiente.  
 
 ---
 
-### 🧠 Principais Tecnologias  
+### 🧠 Tecnologias e Ferramentas  
 
 <div align="center">
-
-<!-- Python -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="50" height="50"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle" width="50" height="50"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="50" height="50"/> 
-
+  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,html,css,js,oracle,mysql" />
 </div>
 
 ---
 
-### 📊 Estatísticas no GitHub  
-[![Letícia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario-github&show_icons=true&theme=dracula)](https://github.com/seu-usuario-github)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario-github&layout=compact&theme=dracula)](https://github.com/seu-usuario-github)  
+### 📈 Estatísticas  
 
-> 💡 *Substitua `seu-usuario-github` pelo seu nome de usuário real no GitHub.*
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=leticiatorquato&show_icons=true&theme=dracula&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiatorquato&layout=compact&theme=dracula&hide_border=true" height="160" />
+</div>
 
 ---
 
 ### 📫 Contato  
-- 💼 [LinkedIn](https://www.linkedin.com/in/leticiatorquato)  
-- ✉️ **leticia.torquato.ads@gmail.com**
+
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+  <a href="https://www.linkedin.com/in/leticiatorquato" target="_blank" style="text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/>
+    <span style="font-size: 16px; vertical-align: middle;">LinkedIn</span>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:leticia.torquato.ads@gmail.com" target="_blank" style="text-decoration: none;">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="30" height="30"/>
+    <span style="font-size: 16px; vertical-align: middle;">E-mail</span>
+  </a>
+</div>
 
 ---
 
-### 🎯 Atualmente estou…  
-- Aprendendo a criar dashboards interativos com **Python** (Matplotlib + Seaborn)  
-- Desenvolvendo páginas web com **HTML, CSS e JavaScript**  
-- Aprofundando conhecimentos em **SQL e Oracle**  
-- Em busca de oportunidades para aplicar e expandir meus conhecimentos  
+### 🎯 Atualmente estou  
+
+- Criando dashboards e visualizações de dados com **Python (Matplotlib e Seaborn)**  
+- Aprimorando meus conhecimentos em **HTML, CSS e JavaScript**  
+- Estudando **SQL e Oracle** para aprimorar a manipulação de dados  
+- Buscando oportunidades para aplicar meus conhecimentos em projetos reais  
 
 ---
 
-✨ *Obrigada por visitar meu perfil! Vamos construir algo incrível juntos 🚀*
+<div align="center">
+  <i>“A tecnologia é mais do que código — é sobre resolver problemas e criar possibilidades.”</i>  
+</div>
 
-
-<!--
-**leticiatorquato/leticiatorquato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
