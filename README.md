@@ -16,6 +16,24 @@ Sou uma entusiasta da tecnologia e acredito no poder do aprendizado contínuo. A
 
 ---
 
+## 🚀 Atualmente estou  
+- Criando dashboards e visualizações com **Python (Pandas, Matplotlib, Seaborn)**  
+- Estudando **HTML, CSS e JavaScript** para desenvolvimento front-end  
+- Aprimorando meus conhecimentos em **Oracle** e **SQL** para manipulação de dados 
+- Buscando novas oportunidades de aprendizado e crescimento profissional  
+
+---
+
+## 📄 Currículo
+
+<p align="center">
+  <a href="https://www.github.com/leticiatorquato/cv-leticia-torquato/cv-leticia-torquato.pdf">
+    <img src="https://img.shields.io/badge/Ver%20Currículo-1E90FF?style=for-the-badge&logo=readme&logoColor=white"/>
+  </a>
+</p>
+
+---
+
 ## 📫 Contato  
 
 <p align="center">
@@ -26,14 +44,6 @@ Sou uma entusiasta da tecnologia e acredito no poder do aprendizado contínuo. A
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
-
----
-
-## 🚀 Atualmente estou  
-- Criando dashboards e visualizações com **Python (Pandas, Matplotlib, Seaborn)**  
-- Estudando **HTML, CSS e JavaScript** para desenvolvimento front-end  
-- Aprimorando meus conhecimentos em **Oracle** e **SQL** para manipulação de dados 
-- Buscando novas oportunidades de aprendizado e crescimento profissional  
 
 ---
 
