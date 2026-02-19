@@ -27,7 +27,7 @@ Sou uma entusiasta da tecnologia e acredito no poder do aprendizado contínuo. A
 ## 📄 Currículo
 
 <p align="center">
-  <a href="https://github.com/leticiatorquato/cv_leticia_torquato/blob/main/cv_leticia_torquato.pdf)">
+  <a href="https://github.com/leticiatorquato/cv_leticia_torquato/blob/main/cv_leticia_torquato.pdf">
     <img src="https://img.shields.io/badge/Ver%20Currículo-1E90FF?style=for-the-badge&logo=readme&logoColor=white"/>
   </a>
 </p>
