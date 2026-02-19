@@ -18,8 +18,6 @@ Sou uma entusiasta da tecnologia e acredito no poder do aprendizado contínuo. A
 
 ## 📫 Contato  
 
-## 📫 Contato  
-
 <p align="center">
   <a href="https://www.linkedin.com/in/leticiatorquato">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
