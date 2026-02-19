@@ -19,7 +19,12 @@ Sou uma entusiasta da tecnologia e acredito no poder do aprendizado contínuo. A
 ## 📫 Contato  
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/leticiatorquato" style="text-decoration: none;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" height="30"/></a><a href="mailto:leticia.torquato.ads@gmail.com" style="text decoration: none;"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30" height="30"/></a>
+  <a href="https://www.linkedin.com/in/leticiatorquato">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" height="30" style="margin-right: 10px;"/>
+  </a>
+  <a href="mailto:leticia.torquato.ads@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30" height="30"/>
+  </a>
 </div>
 
 ---
