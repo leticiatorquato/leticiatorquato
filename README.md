@@ -16,27 +16,16 @@ Sou uma entusiasta da tecnologia e acredito no poder do aprendizado contínuo. A
 
 ---
 
-## 📊 Estatísticas  
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leticiatorquato&show_icons=true&theme=dracula&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiatorquato&layout=compact&theme=dracula&hide_border=true" height="160" />
-</div>
-
----
-
 ## 📫 Contato  
 
 <div align="center">
   <a href="https://www.linkedin.com/in/leticiatorquato" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" height="30" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" height="30"/>
   </a>
-  <span style="color:white; font-size:16px;">&nbsp;LinkedIn&nbsp;&nbsp;&nbsp;</span>
-
-  <a href="mailto:leticia.torquato.ads@gmail.com" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30" height="30" />
+  &nbsp;&nbsp;
+  <a href="mailto:leticia.torquato.ads@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30" height="30"/>
   </a>
-  <span style="color:white; font-size:16px;">&nbsp;E-mail</span>
 </div>
 
 ---
@@ -44,7 +33,7 @@ Sou uma entusiasta da tecnologia e acredito no poder do aprendizado contínuo. A
 ## 🚀 Atualmente estou  
 - Criando dashboards e visualizações com **Python (Pandas, Matplotlib, Seaborn)**  
 - Estudando **HTML, CSS e JavaScript** para desenvolvimento front-end  
-- Aprimorando meus conhecimentos em **Oracle** para manipulação de dados 
+- Aprimorando meus conhecimentos em **Oracle** e **SQL** para manipulação de dados 
 - Buscando novas oportunidades de aprendizado e crescimento profissional  
 
 ---
