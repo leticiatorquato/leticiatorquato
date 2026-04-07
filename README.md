@@ -19,7 +19,7 @@ Sou uma entusiasta da tecnologia e acredito no poder do aprendizado contínuo. A
 ## 🚀 Atualmente estou  
 - Criando dashboards e visualizações com **Python (Pandas, Matplotlib, Seaborn)**  
 - Estudando **HTML, CSS e JavaScript** para desenvolvimento front-end  
-- Aprimorando meus conhecimentos em **Oracle** e **SQL** para manipulação de dados 
+- Aprimorando meus conhecimentos em **Oracle** e **MySQL** para manipulação de dados 
 - Buscando novas oportunidades de aprendizado e crescimento profissional  
 
 ---
