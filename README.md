@@ -11,7 +11,7 @@ Sou uma entusiasta da tecnologia e acredito no poder do aprendizado contínuo. A
 ## 🧠 Tecnologias e Ferramentas  
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,java,git,github,vscode" />
 </div>
 
 ---
